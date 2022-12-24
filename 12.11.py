@@ -50,10 +50,6 @@ def f3(s,c):
         else:
             k=0
     return spisok1
-def f4():
-    return
-def f4_1(x):
-    return
 def f5(s,c):
     spisok1 = []
     spisok2 = []
